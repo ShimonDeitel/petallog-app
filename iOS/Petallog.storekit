@@ -1,0 +1,29 @@
+{
+  "identifier" : "petallog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "petallog_pro",
+      "localizations" : [
+        {
+          "description" : "Vase-life tracking and unlimited variety history",
+          "displayName" : "Petallog Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.petallog.pro",
+      "referenceName" : "Petallog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
